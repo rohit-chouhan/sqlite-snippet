@@ -1,5 +1,5 @@
 <p align="center">
-<img width="150" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">+<img width="150" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"><br>
+<img width="250" src="https://media.charlesleifer.com/blog/photos/sqlite-and-python.png"><br>
 Simle Easy SQLite Snippet for  Python, Developed by <a href="https://rohitchouhan.com">Rohit Chouhan</a>
 </p>
 
