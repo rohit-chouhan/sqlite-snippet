@@ -1,17 +1,24 @@
 <p align="center">
 <img width="250" src="https://media.charlesleifer.com/blog/photos/sqlite-and-python.png"><br>
-Simle Easy SQLite Snippet for  Python, Developed by <a href="https://rohitchouhan.com">Rohit Chouhan</a>
+Simple Easy MySQL + SQLite Snippet for  Python, Developed by <a href="https://rohitchouhan.com">Rohit Chouhan</a>
 </p>
 
-
-## Install form Here
-https://marketplace.visualstudio.com/items?itemName=rohit-chouhan.sqlite-snippet
-
+### For SQLite Connection
 | Prefix   |Description   |
 | ------------ | ------------ |
 |  sl-import | import sqlite3   |
 |  sl-createConnection, sl-createDb | create connection code   |
-|  sl-createTb | create table code   |
+
+### For MySQL Connection
+| Prefix   |Description   |
+| ------------ | ------------ |
+|  sql-import | import mysql.connector      |
+|  sql-createConnection | create MySQL connection code   |
+|  sql-createDBConnection | create MySQL connection with Database   |
+
+### For Both
+| Prefix   |Description   |
+| ------------ | ------------ |
 |  sl-select | retrive data code   |
 |  sl-selectAll | retrive all data code   |
 |  sl-insert | insert data code   |
